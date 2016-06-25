@@ -1,0 +1,14 @@
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\BLL.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\BLL.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\Common.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\DAL.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\DBUtility.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\Model.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\NPOI.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\Common.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\DAL.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\DBUtility.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\bin\Release\Model.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\obj\Release\BLL.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\BLL\obj\Release\BLL.pdb

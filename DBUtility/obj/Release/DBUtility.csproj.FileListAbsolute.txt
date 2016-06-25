@@ -1,0 +1,8 @@
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\bin\Release\DBUtility.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\bin\Release\DBUtility.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\bin\Release\Common.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\bin\Release\NPOI.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\bin\Release\Common.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\obj\Release\DBUtility.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DBUtility\obj\Release\DBUtility.pdb

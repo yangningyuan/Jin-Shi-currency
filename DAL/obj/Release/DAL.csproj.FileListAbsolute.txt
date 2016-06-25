@@ -1,0 +1,12 @@
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\DAL.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\DAL.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\Common.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\DBUtility.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\Model.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\NPOI.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\Common.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\DBUtility.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\bin\Release\Model.pdb
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\obj\Release\DAL.dll
+C:\Users\Yang\Desktop\肝胆胰\程序\程序\DAL\obj\Release\DAL.pdb
